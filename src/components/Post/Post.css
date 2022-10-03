@@ -1,0 +1,7 @@
+.post{
+    background-color: yellow;
+    border: 5px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: left;
+}

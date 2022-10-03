@@ -1,0 +1,18 @@
+.header > a{
+    text-decoration: none;
+    background-color: bisque;
+    padding: 8px 15px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.header{
+    margin-top: 20px;
+}
+.header> a:hover{
+    background-color: aquamarine;
+    color: black;
+}
+.active{
+    color: red;
+    background-color: yellow;
+}
